@@ -10,7 +10,10 @@
 <p>We can help people find good high-paying jobs in their local neighborhood. We can help make Workforce Development job listings more easily available to those in need. We’ve been asked to help build an app, “ Portal to Work ”, that will show the job seeker nearby available jobs based on travel time from their home. </p>
 <p>Portal to Work should be able to map out jobs within the geographical area near the job seeker. Jobs should be sorted by travel time. Our app will limit their search to jobs they know they can get to without a 4 hour bus trip across the city. </p>
 
-![home](https://user-images.githubusercontent.com/11079508/68088928-89c4c880-fe29-11e9-8045-82d1413ddb17.PNG)
+![home](https://user-images.githubusercontent.com/11079508/68089426-43259d00-fe2e-11e9-82c8-952706e2b334.PNG)
+<br/>
 ![jobslist](https://user-images.githubusercontent.com/11079508/68088930-8cbfb900-fe29-11e9-8381-9dec1595c994.PNG)
+<br/>
 ![details](https://user-images.githubusercontent.com/11079508/68088931-8fbaa980-fe29-11e9-8506-57aae9eff3d3.PNG)
+<br/>
 ![events](https://user-images.githubusercontent.com/11079508/68088932-91846d00-fe29-11e9-8804-40164f8651e8.PNG)
