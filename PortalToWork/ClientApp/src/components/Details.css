@@ -1,0 +1,77 @@
+.more-button{
+    background-color: #4979ad;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 100px;
+    border-radius: 12px;
+  }
+
+  .moreInfo{
+      text-align: center;
+  }
+
+  .filters{
+      font-size: 16px;
+      list-style-type: none;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+	    display: table;   /* Allow the centering to work */
+	    margin: 0 auto;
+  
+  }
+
+  .map{
+      margin: 20px;
+  }
+
+    
+    .left{
+        float: left;
+        text-align: left;
+        width:40%;
+        margin: 5px;
+    }
+
+    .right{
+        width: 40%;
+        float:right;
+        text-align: right;
+        margin: 5px;
+    }
+
+    .table{
+        font-size: 16px;
+        padding-right: 5%;
+        padding-left: 5%;
+        width:100%;
+    }
+
+    .clickMap{
+        width: 90%;
+        height: 100px;
+        margin:auto;
+        padding-top: 1.5rem;
+        text-align: center;
+    
+    }
+
+    .Address{
+        float:right;
+        padding-top:10px;
+        font-size: 16px;
+    }
+
+    .clickMapButton{
+        float:left;
+    }
+
+    .detailsPage{
+        margin-bottom: 250px;
+    }

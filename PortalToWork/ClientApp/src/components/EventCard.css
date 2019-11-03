@@ -1,0 +1,40 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0 auto;
+}/*
+.event-card {
+    border: 1px solid black;
+    padding: 15px;
+    margin: 10px;
+    background-color: #f2f6f7;
+    margin-bottom: 20px;
+    color: black;
+    padding-top:30px;
+  }
+     */
+
+
+  .event-deets{
+    position: relative;
+    left: 20px;
+    top: -10px;
+    
+  }
+
+ .event-title{
+   font-size: 16px;
+ }
+ /*
+ a:link{
+   color: #4979ad;
+ }
+
+ a:visited{
+   color: #a1cb62;
+ }*/

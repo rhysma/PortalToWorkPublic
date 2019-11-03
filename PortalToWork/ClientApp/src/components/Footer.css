@@ -1,0 +1,14 @@
+﻿footer {
+    background-color: #00455c;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    border-top: 10px #75c0eb solid;
+    text-align: right;
+    padding: 5px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
